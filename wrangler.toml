@@ -1,8 +1,0 @@
-name = "gaiasblog"
-compatibility_date = "2026-11-05"
-
-[build]
-command = "bash ./build.sh"
-
-[assets]
-directory = "./public"
