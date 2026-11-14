@@ -1,6 +1,6 @@
-base_url = "https://gaiasblog.gaiadfa.workers.dev"
-title = "gaia's blog"
-description = "a place for thoughts"
+base_url = "https://hollowbear.com"
+title = "Inside the Hollow Bear"
+description = "Stories from a mossy place"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
@@ -39,9 +39,9 @@ nav = [
 ]
 
 # Your info on the home page, if you don't want to display handle/bio/avatar, simply comment out that line
-name = "gaia's blog" # main name
-handle = "schiccherie" # @name
-bio = "brain wasteland" # name subtitle  of a second thought haver
+name = "Inside the Hollow Bear" # main name
+handle = "hollowbear" # @name
+bio = "stories from a mossy place" # name subtitle  of a second thought haver
 avatar = "img/avatar.webp"
 links = [
   { name = "Email", icon = "email", url = "mailto:gaiadfa@tuta.io" },
